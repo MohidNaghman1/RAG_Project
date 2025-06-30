@@ -1,0 +1,19 @@
+# Python / RAG Backend
+rag/venv/
+rag/__pycache__/
+rag/faiss_index/
+rag/.env
+
+# Node.js / React Frontend
+ecommerce-website/node_modules/
+ecommerce-website/.pnp
+ecommerce-website/.pnp.js
+ecommerce-website/coverage/
+ecommerce-website/build/
+
+# General
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
