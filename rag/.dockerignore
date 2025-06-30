@@ -1,0 +1,39 @@
+# Ignore Python virtual envs
+venv/
+.venv/
+rag/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter and notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Ignore large files and model weights
+*.pt
+*.bin
+*.h5
+*.onnx
+*.pkl
+*.pdf
+*.tar.gz
+*.zip
+
+# Ignore model/index/cache folders
+rag/faiss_index/
+rag/data/
+rag/.cache/
+rag/.huggingface/
+rag/models/
+
+# Ignore secrets and logs
+*.log
+.env
+rag/.env
+
+# Ignore frontend build output
+ecommerce-website/node_modules/
+ecommerce-website/build/
