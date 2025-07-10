@@ -42,8 +42,7 @@ an AI-Powered **Shopping Assistant** using **Retrieval-Augmented Generation (RAG
 
 ## 📽️ Demo
 
-https://github.com/user-attachments/assets/48f0be68-5aba-41b8-8ca4-804c935b3a55
-Uploading chrome_OgSQfmrxny.mp4…
+https://github.com/user-attachments/assets/7342d5c5-01fd-475d-9d10-c77bd0c9d09f
 
 ---
 
